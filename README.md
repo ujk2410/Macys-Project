@@ -1,5 +1,5 @@
-# Basic Project
-## Basic Project Structure
+# Welcome to Macys Project
+## Macys project structure
 
 *Default Structure for A Basic Project*
 
